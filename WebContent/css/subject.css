@@ -1,0 +1,8 @@
+.subject:hover{
+	font-weight: bold;
+	cursor: pointer;
+}
+
+.active_subject{
+	font-weight: italic;
+}

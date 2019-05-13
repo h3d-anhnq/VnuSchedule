@@ -1,0 +1,21 @@
+{
+  "name": "serverchat",
+  "version": "1.0.0",
+  "description": "Server for VnuChat.jsp",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "chat",
+    "socket"
+  ],
+  "author": "Nguyen Quoc Anh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "jquery": "^3.3.1",
+    "mysql": "^2.17.1",
+    "socket.io": "^2.1.1"
+  }
+}
